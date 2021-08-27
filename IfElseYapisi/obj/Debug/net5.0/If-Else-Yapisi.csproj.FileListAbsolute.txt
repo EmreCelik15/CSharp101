@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\If-Else-Yapisi.exe
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\If-Else-Yapisi.deps.json
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\If-Else-Yapisi.runtimeconfig.json
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\If-Else-Yapisi.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\If-Else-Yapisi.dll
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\ref\If-Else-Yapisi.dll
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\bin\Debug\net5.0\If-Else-Yapisi.pdb
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.dll
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\ref\If-Else-Yapisi.dll
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.pdb
+C:\Users\Dell\Desktop\CSharp\If-Else-Yapisi\obj\Debug\net5.0\If-Else-Yapisi.genruntimeconfig.cache

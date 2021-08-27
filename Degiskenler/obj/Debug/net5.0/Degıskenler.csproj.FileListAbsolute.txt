@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\Degıskenler.exe
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\Degıskenler.deps.json
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\Degıskenler.runtimeconfig.json
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\Degıskenler.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\Degıskenler.dll
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\ref\Degıskenler.dll
+C:\Users\Dell\Desktop\CSharp\Degıskenler\bin\Debug\net5.0\Degıskenler.pdb
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.dll
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\ref\Degıskenler.dll
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.pdb
+C:\Users\Dell\Desktop\CSharp\Degıskenler\obj\Debug\net5.0\Degıskenler.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\CsIntro.exe
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\CsIntro.deps.json
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\CsIntro.runtimeconfig.json
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\CsIntro.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\CsIntro.dll
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\ref\CsIntro.dll
+C:\Users\Dell\Desktop\CSharp\CsIntro\bin\Debug\net5.0\CsIntro.pdb
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.dll
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\ref\CsIntro.dll
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.pdb
+C:\Users\Dell\Desktop\CSharp\CsIntro\obj\Debug\net5.0\CsIntro.genruntimeconfig.cache
